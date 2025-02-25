@@ -20,3 +20,5 @@ This project is a modding tool designed to work with the **[LibGGPK3](https://gi
 ## Important
 
 I have no knowledge of С#, was able to write this for my purposes, please don't blame me for having a junk code.... 
+
+So any support from contributors with code and presets (include content folder), would be a really nice!
