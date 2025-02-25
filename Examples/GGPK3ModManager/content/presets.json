@@ -1,0 +1,7 @@
+{
+    "remove spark": [
+        "bundle/metadata/effects/spells/lightning_spark/fx/lightningtesla_impact.pet",
+        "bundle/metadata/effects/spells/lightning_spark/fx/sparkhit.pet",
+        "bundle/metadata/effects/spells/lightning_spark/spark_projectile.aoc"
+    ]
+}

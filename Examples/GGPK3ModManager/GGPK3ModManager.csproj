@@ -3,8 +3,15 @@
 	<ItemGroup>
 		<EmbeddedResource Include="Resources/dir.ico" />
 		<EmbeddedResource Include="Resources/file.ico" />
+
 		<ProjectReference Include="../../LibBundledGGPK3/LibBundledGGPK3.csproj" />
 		<PackageReference Include="Pfim" Version="*" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<None Update="content/**/*">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</None>
 	</ItemGroup>
 
 	<Import Project="../EtoForms.props" />
